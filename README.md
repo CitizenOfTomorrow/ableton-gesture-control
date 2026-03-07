@@ -5,7 +5,7 @@ Real-time hand gesture recognition using your webcam to control Ableton Live pla
 ## Requirements
 
 - Python 3.10+
-- Ableton Live with the [AbletonMCP Remote Script](https://github.com/ahundt/ableton-mcp) installed and running
+- Ableton Live with the [AbletonMCP Remote Script](https://github.com/ahujasid/ableton-mcp) installed and running (follow instructions there)
 
 ## Setup
 

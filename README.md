@@ -13,6 +13,12 @@ Real-time hand gesture recognition using your webcam to control Ableton Live pla
 pip install -r requirements.txt
 ```
 
+Download the MediaPipe hand landmark model and place it in the project root:
+
+```bash
+wget -q https://storage.googleapis.com/mediapipe-models/hand_landmarker/hand_landmarker/float16/1/hand_landmarker.task
+```
+
 ## Usage
 
 ```bash
